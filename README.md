@@ -1,7 +1,7 @@
 # semana8
 Semana 8 Fullstack Bootcamp Makeit Real 2018-2
 
-##Objetivo:
+## Objetivo:
 ### Aprender el uso de de eventos en jquery  y  Ajax 
 
 El presente repositorio tiene la siguiente estructura, a continuación se listara en orden.
