@@ -10,4 +10,4 @@ El presente repositorio tiene la siguiente estructura, a continuación se listar
     * jqueryEvents : Clase sobre eventos en jquery
     * MakersForm : Solución al reto propuesto en clase
     * Dices : Reto propuesto en clase
-    * mouseTrack : Reto propuesto 
+    * MouseTrack : Reto propuesto 
