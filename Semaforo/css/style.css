@@ -1,0 +1,31 @@
+.light-container{
+    height: 230px;
+    width: 90px;
+    background-color: black; 
+    position: absolute;
+    left: calc(50% - 45px);
+    
+    
+    
+}
+
+.light{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    margin: 20px auto;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.light.red{
+    background-color: red;
+}
+
+.light.yellow{
+    background-color: yellow;
+}
+
+.light.green{
+    background-color: green;
+}
